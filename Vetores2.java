@@ -40,4 +40,5 @@ public class Vetores2 {
 		
 		System.out.printf("\nA soma dos valores dos índices é "+soma+" , e a media desses valores é "+media);
 	}
+
 }

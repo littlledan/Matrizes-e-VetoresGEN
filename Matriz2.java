@@ -10,7 +10,6 @@ public class Matriz2 {
 		double v [] = new double [10];
 		double m [][] = new double [10][4];
 		double soma = 0;
-		int aux = 0;
 		
 		for(int L = 0; L < 10; L++) {
 			System.out.println("\nDigite as notas do aluno "+ (L + 1)+": ");
